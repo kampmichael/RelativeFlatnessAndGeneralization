@@ -1,0 +1,29 @@
+authors:
+  - family-names: Adilova
+    given-names: Linara
+    orcid: "https://orcid.org/0000-0003-0689-6138"
+  - family-names: Kamp
+    given-names: Michael
+    orcid: "https://orcid.org/0000-0001-6231-0694"
+  - family-names: Petzka
+    given-names: Henning
+cff-version: 1.2.0
+message: "If you use this software, please cite the article from preferred-citation."
+preferred-citation:
+  authors:
+    - family-names: Petzka
+      given-names: Henning
+    - family-names: Kamp
+      given-names: Michael
+    - family-names: Adilova
+      given-names: Linara
+    - family-names: Sminchisescu
+      given-names: Cristian
+    - family-names: Boley
+      given-names: Mario
+  title: "Relative Flatness and Generalization"
+  type: conference-paper
+  year: 2021
+  publisher: Curran Associates, Inc.
+  booktitle: Advances in Neural Information Processing Systems
+title: "Relative Flatness and Generalization"

@@ -25,5 +25,5 @@ preferred-citation:
   type: conference-paper
   year: 2021
   publisher: Curran Associates, Inc.
-  booktitle: Advances in Neural Information Processing Systems
+  conference: Advances in Neural Information Processing Systems
 title: "Relative Flatness and Generalization"
